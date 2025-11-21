@@ -28,7 +28,7 @@ const MenuList: React.FC = () => {
         ))}
       </ul>
       <p className="mt-6 text-gray-700 font-medium">
-        Todas vêm acompanhadas de arroz.
+        Todas são acompanhadas de arroz.
       </p>
       <p className="text-gray-700 font-medium">
         Purê de batata ou Refogado de legumes.
