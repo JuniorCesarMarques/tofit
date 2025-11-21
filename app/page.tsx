@@ -4,7 +4,7 @@ import WhatsAppButton from "@/components/Whatsapp";
 
 export default function Home() {
   return (
-    <div>
+    <div className="bg-[#f8f3eb]">
       <Header />
       <MealCards />
       <WhatsAppButton />
